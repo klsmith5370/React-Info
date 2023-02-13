@@ -1,6 +1,5 @@
 # React-Info
 
-Just a fun little refresher on React and why it's fun to use React
+Just a fun little refresher on React building a static page
 
-Packages and Dependencies used:
 
